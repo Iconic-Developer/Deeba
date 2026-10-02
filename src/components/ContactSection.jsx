@@ -148,7 +148,7 @@ const ContactSection = () => {
     >
       <div className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SEO
-          title="Contact | Deeba Workforce India - Get in Touch with Us"
+          title="Contact | Deeba Workforce India | Get in Touch with Us"
           description="Have questions or want to discuss your workforce needs? Contact Deeba Workforce India today for personalized workforce solutions and expert support."
         />
 
