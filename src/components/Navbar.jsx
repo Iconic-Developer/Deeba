@@ -12,6 +12,7 @@ const Navbar = () => {
     { name: 'Contact', href: '#contact' },
   ];
 
+
   const toggleMenu = () => {
     setIsOpen(!isOpen);
   };
@@ -28,7 +29,7 @@ const Navbar = () => {
             className="flex-shrink-0"
           >
             <h1 className="text-2xl font-bold text-gray-800">
-              Deeba Workforce India
+              DEEBAA WORKFORCE INDIA
             </h1>
           </motion.div>
 
@@ -111,7 +112,7 @@ const Navbar = () => {
               <div className="flex flex-col h-full">
                 {/* Sidebar Header */}
                 <div className="flex items-center justify-between px-3 py-2 border-b border-gray-200 min-h-[56px]">
-                  <h2 className="text-sm font-semibold text-gray-800 flex-shrink-0 truncate max-w-[160px]">Deeba Workforce India</h2>
+                  <h2 className="text-sm font-semibold text-gray-800 flex-shrink-0 truncate max-w-[160px]">DEEBA WORKFORCE INDIA</h2>
                   <motion.button
                     onClick={toggleMenu}
                     whileTap={{ scale: 0.95 }}

@@ -37,7 +37,7 @@ const Navbar = () => {
             />
             <div>
               <h1 className="text-lg sm:text-xl font-bold text-gray-800 leading-tight">
-               Deebaa Workforce India
+               DEEBA WORKFORCE INDIA
               </h1>
             </div>
           </Link>
@@ -133,7 +133,7 @@ const Navbar = () => {
                   />
                   <div className="min-w-0">
                     <h2 className="text-sm font-bold text-gray-800 leading-tight truncate">
-                      Deebaa Workforce 
+                      DEEBA WORKFORCE
                     </h2>
                     <p className="text-xs text-blue-600 font-medium -mt-1 truncate">
                       India
