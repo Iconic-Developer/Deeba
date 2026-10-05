@@ -45,20 +45,20 @@ const ContactSection = () => {
       address:
         "16th Floor, 69, Pattur Koot Road, Temple, Kundrathur Road, off Mangadu, SriPandian Nagar, Mangadu, Chennai, Tamil Nadu - 600122",
       phone: "+91 93636 51657",
-      email: "aj@labourbridges.com",
+      email: "deebaworkforce@gmail.com",
     },
     {
       city: "Hyderabad",
       address: "H. NO .124 Flat no 14, Saraswathi Nagar, Lothkunta HYD",
       phone: "+91 93636 51657",
-      email: "aj@labourbridges.com",
+      email: "deebaworkforce@gmail.com",
     },
     {
       city: "West Bengal",
       address:
-        "Punjabi Khola, Barasat - Barrackpore Road, North 24 Parganas, West Bengal - 700121",
+        "Weble Building, 1st Floor, 1/1B, Phears Lane, Kolkata, West Bengal - 700072",
       phone: "+91 93636 51657",
-      email: "aj@labourbridges.com",
+      email: "deebaworkforce@gmail.com",
     },
   ];
 
@@ -401,7 +401,7 @@ const ContactSection = () => {
                       Email
                     </div>
                     <div className="text-gray-600">
-                      aj@labourbridges.com
+                      deebaworkforce@gmail.com
                     </div>
                   </div>
                 </div>
