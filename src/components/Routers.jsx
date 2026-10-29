@@ -35,6 +35,7 @@ import Wage from "./nmr/Wage.jsx";
 import Contract from "./nmr/Contract.jsx";
 import Payroll from "./nmr/Payroll.jsx";
 import Compliances from "./nmr/Compliance.jsx";
+import Careers from "./Careers.jsx";
 
 const Routers = () => {
   return <>
@@ -76,6 +77,8 @@ const Routers = () => {
           <Route path="/contract" element={<Contract />} />
           <Route path="/payroll" element={<Payroll />} />
           <Route path="/compliances" element={<Compliances />} />
+                    <Route path="/careers" element={<Careers />} />
+
         
       </Routes>
     </Router>
